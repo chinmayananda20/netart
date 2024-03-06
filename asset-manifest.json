@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github.io/react-app/static/css/main.9c55aabe.css",
+    "main.js": "/github.io/react-app/static/js/main.60717643.js",
+    "static/js/453.d1a5678c.chunk.js": "/github.io/react-app/static/js/453.d1a5678c.chunk.js",
+    "static/media/1.png": "/github.io/react-app/static/media/1.034f1e05a3752579e0b0.png",
+    "static/media/3.png": "/github.io/react-app/static/media/3.5d60ad109e474b0f68aa.png",
+    "static/media/2.png": "/github.io/react-app/static/media/2.8563a9b8604354554997.png",
+    "static/media/logo.png": "/github.io/react-app/static/media/logo.c3067270311d834dd695.png",
+    "static/media/globe.svg": "/github.io/react-app/static/media/globe.50876e43933815577489131385e62e6d.svg",
+    "index.html": "/github.io/react-app/index.html",
+    "main.9c55aabe.css.map": "/github.io/react-app/static/css/main.9c55aabe.css.map",
+    "main.60717643.js.map": "/github.io/react-app/static/js/main.60717643.js.map",
+    "453.d1a5678c.chunk.js.map": "/github.io/react-app/static/js/453.d1a5678c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c55aabe.css",
+    "static/js/main.60717643.js"
+  ]
+}
